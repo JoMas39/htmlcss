@@ -1,0 +1,23 @@
+.feuilles {
+    padding: 100px; /* Vous ne connaissez pas encore cette propriété mais elle permet d'ajouter de l'espace dans notre élément*/
+    background-image: url('feuilles.png');
+    background-repeat: repeat;
+}
+
+.pingouin{
+    background-image: url('pingouin.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-origin: content-box;
+    background-position: center;
+}
+
+p{
+    color:white;
+}
+h2{
+    color:white;
+}
+h1{
+    color:purple;
+}

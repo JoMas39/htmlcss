@@ -108,26 +108,18 @@ p8{
 + PROBLEME PREMIERES LIGNES
  */
 
-h1:hover {
+h1:hover, h2:hover, h3:hover {
     color: blue;
 }
 
-h2:hover {
-    color: blue;
-}
-
-h3:hover {
-    color: blue;
-}
-
-h1:active {
+h1:active, h2:active, h3:active  {
     text-decoration: underline;
 }
 
-h2:active {
-    text-decoration: underline;
- }
+p:hover {
+    font-style: italic;
+}
 
-h3:active {
-    text-decoration: underline;
+p1:hover, p2:hover, p3:hover, p4:hover, p5:hover,p6:hover, p7:hover,p8:hover {
+    font-style: italic;
 }

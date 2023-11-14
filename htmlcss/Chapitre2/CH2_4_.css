@@ -17,7 +17,7 @@ body{
     background-image: url('pingouin.png');
     background-repeat: no-repeat;
     background-position: left;
-    object-fit: fill;
+    background-size: contain;
 }
 
 .article2{
@@ -36,7 +36,7 @@ body{
     background-image: url('pingouin.png');
     background-repeat: no-repeat;
     background-position: left;
-    object-fit: fill;
+    background-size: contain;
  }
 
 .article3{
@@ -54,7 +54,7 @@ body{
     background-image: url('pingouin.png');
     background-repeat: no-repeat;
     background-position: left;
-    object-fit: fill;
+    background-size: contain;
 }
 
 P{

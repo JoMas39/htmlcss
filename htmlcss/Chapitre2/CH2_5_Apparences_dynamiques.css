@@ -107,3 +107,27 @@ p8{
 /* VERIF POLICE DE CHAQUE PARAGRAPHE
 + PROBLEME PREMIERES LIGNES
  */
+
+h1:hover {
+    color: blue;
+}
+
+h2:hover {
+    color: blue;
+}
+
+h3:hover {
+    color: blue;
+}
+
+h1:active {
+    text-decoration: underline;
+}
+
+h2:active {
+    text-decoration: underline;
+ }
+
+h3:active {
+    text-decoration: underline;
+}

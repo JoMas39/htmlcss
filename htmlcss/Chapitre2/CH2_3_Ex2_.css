@@ -1,0 +1,39 @@
+body{
+    background-color:darkolivegreen;
+    background-image: url('pingouin.png');
+    background-size: cover;
+}
+
+section{
+    background-color:indianred;
+    opacity: 0.70;
+}
+
+article{
+    color:gray;
+    background-color:darkred;
+    margin: 30px;
+    opacity: 0.70;
+    background-image: url('pingouin.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+cite{
+    color:white;
+}
+
+p1{
+    color:white;
+}
+
+h1{
+    color:purple;
+    font-weight: bold;
+}
+
+h2{
+    color:white;
+    font-weight: bold;
+}
+

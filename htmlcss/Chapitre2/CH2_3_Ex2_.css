@@ -10,7 +10,7 @@ section{
 }
 
 article{
-    color:gray;
+    color:grey;
     background-color:darkred;
     margin: 30px;
     opacity: 0.70;
@@ -20,6 +20,16 @@ article{
     background-attachment: url('pingouin2.png') fixed;
     background-origin: url('pingouin2.png') content-box;
     }
+/*
+article {
+
+    background-image: url('pingouin.png'), url('pingouin2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-origin: content-box;
+}
+*/
 
 cite{
     color:white;
